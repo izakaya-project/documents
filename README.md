@@ -2,10 +2,6 @@
 
 ## URL
 
-### リポジトリ
-
-http://github.team-lab.local/izakaya-project/
-
 ### おかみさん側
 
 https://izakaya-project.herokuapp.com/
